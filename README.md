@@ -1,1 +1,3 @@
-# Config
+# Configuration
+-------------------------------
+This is my current neovim configuration, insipired of some youtubers config, just in case i need to change my laptop OS one day...
